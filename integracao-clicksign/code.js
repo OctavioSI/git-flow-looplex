@@ -1,1 +1,2 @@
-let variavel1 = ''
+let variavel1 = '';
+let teste = 'ok';
